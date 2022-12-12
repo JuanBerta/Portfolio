@@ -1,4 +1,4 @@
-# Portafolio versión Español
+# Portafolio
 ## Sobre mí
 Nacido en 2003, amante de los videojuegos y la tecnología, aprendiendo testing de software y queriendo unirse a la industria IT, tengo conocimientos en manejo de documentos, lenguajes de programación como Python, herramientas de desarrollo y testeo como Jira, Testlink y MantisBT, también tengo un excelente uso de herramientas de ofimatica. Mis habilidades son: Autogestion, autoaprendizaje, organización y trabajo en equipo
 
