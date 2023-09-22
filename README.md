@@ -1,11 +1,16 @@
 # Portfolio
+
 ## About me
-Born in 2003, I am deeply passionate about video games and technology. My current focus is on acquiring expertise in cibersecurity with the aim of establishing a career within the IT industry. I possess a robust skill set, including proficiency in document management, programming languages such as Python, and proficiency in utilizing essential development and testing tools such as Jira, Testlink, and MantisBT. Additionally, I demonstrate a high level of competence in office productivity tools. My skill repertoire encompasses self-management, self-directed learning, adept organizational abilities, and a collaborative approach to teamwork.
+Born in 2003, I am deeply passionate about video games and technology. My interests are underpinned by a strong attention to detail, self-management, and an innate ability to work independently. I hold values such as honesty and a keen willingness to embrace new tools and technologies, including AI.
+
+My burgeoning interest in the cybersecurity profession has evolved into a driving force behind my career aspirations. I am highly motivated to further my knowledge and expertise in this field, as I recognize its critical importance in safeguarding organizations against modern threats.
+
+These attributes – attention to detail, self-management, independence, honesty, and an eagerness to embrace evolving technologies – collectively contribute to an organization's security goals. They enable me to meticulously analyze and address security vulnerabilities, work autonomously to bolster defenses, and uphold the highest standards of ethical conduct in all cybersecurity endeavors.
 
 # Testing
 
 ## Courses
-* **Software Tester - Jóvenes a Programar (230hs):**
+* [Software Tester - Jóvenes a Programar (230hs)](https://drive.google.com/file/d/11ztKTD6jXi_R-dHrFNUZWBIM9lzcTk7s/view?usp=sharing):
 
   Test cases, equivalence classes, incident reporting, regression testing, and test reports.
 
@@ -35,9 +40,15 @@ Born in 2003, I am deeply passionate about video games and technology. My curren
 * [Seguridad informática: defensa contra las artes oscuras digitales](https://coursera.org/share/6393ad5099d4a6edb3873e0aae24aae2)
 * [Los bits y bytes de las redes informáticas](https://coursera.org/share/457b6554cd2e41d4e8db376defafea7c)
 
-## Cibersecurity
+# Cibersecurity
 
 ## Courses
+On development
 
 ## Tools
 On development
+
+# Scrum Master
+
+## Courses
+* [Introduction to Scrum Master Training](https://coursera.org/share/a7fc0171eb0fb35c996575c90b95bb30)
