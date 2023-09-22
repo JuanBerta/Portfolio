@@ -43,7 +43,7 @@ These attributes – attention to detail, self-management, independence, honesty
 # Cibersecurity
 
 ## Courses
-On development
+* [Foundations of Cibersecurity](https://coursera.org/share/07b61c9f0b2b74afdfbd0271a950a87e)
 
 ## Tools
 On development
