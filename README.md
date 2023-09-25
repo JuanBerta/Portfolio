@@ -44,9 +44,11 @@ These attributes – attention to detail, self-management, independence, honesty
 
 ## Courses
 * [Foundations of Cibersecurity](https://coursera.org/share/07b61c9f0b2b74afdfbd0271a950a87e)
+* [Play It Safe: Manage Security Risks](https://coursera.org/share/73888d5cf07d8c66ce9ae1bb881ab2b9)
 
 ## Projects
 * [Controls and Compliance Checklist](https://docs.google.com/document/d/1OsoBMQEOh_QDG94E2wa__qosyzf8if1AbHdRZmkAwIs/edit?usp=sharing)
+* [Cybersecurity incident report: Network traffic analysis](https://docs.google.com/document/d/19Pj-u3ZRFLSYCRgVXZUPyeNlArZjSM0ftynEYj2nV5U/edit?usp=sharing)
 
 ## Tools
 On development
