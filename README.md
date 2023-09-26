@@ -51,6 +51,8 @@ These attributes – attention to detail, self-management, independence, honesty
 * [Cybersecurity incident report: Network traffic analysis](https://docs.google.com/document/d/19Pj-u3ZRFLSYCRgVXZUPyeNlArZjSM0ftynEYj2nV5U/edit?usp=sharing)
 * [Cybersecurity incident report 2](https://docs.google.com/document/d/1VEI_olh5kFFC_LYbM6kLkbaLah_h3r1molF0CYOiUrs/edit?usp=sharing)
 * [Cybersecurity incident report 3](https://docs.google.com/document/d/1G_Y1SHG0FB_FTDgdKV63oX3qraP9G4_lZ-x9UjYWWAc/edit?usp=sharing)
+* [Security risk assessment report](https://docs.google.com/document/d/1EBYl0v7k9eMHsUmkTy9aeC_Z_P4r0F3xUDwwoc7TIJA/edit?usp=sharing&resourcekey=0-c_Qf5lDBKgH1np_YoWpq1w)
+* [Cybersecurity incident report analysis (Report 5)](https://docs.google.com/document/d/12ow0MLpP9WBoj-5c7R2eEkY0UW3YVNvCP-scBMqGPp8/edit?usp=sharing)
 
 ## Tools
 On development
