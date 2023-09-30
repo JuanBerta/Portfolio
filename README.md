@@ -53,6 +53,7 @@ These attributes – attention to detail, self-management, independence, honesty
 * [Cybersecurity incident report 3](https://docs.google.com/document/d/1G_Y1SHG0FB_FTDgdKV63oX3qraP9G4_lZ-x9UjYWWAc/edit?usp=sharing)
 * [Security risk assessment report](https://docs.google.com/document/d/1EBYl0v7k9eMHsUmkTy9aeC_Z_P4r0F3xUDwwoc7TIJA/edit?usp=sharing&resourcekey=0-c_Qf5lDBKgH1np_YoWpq1w)
 * [Cybersecurity incident report analysis](https://docs.google.com/document/d/12ow0MLpP9WBoj-5c7R2eEkY0UW3YVNvCP-scBMqGPp8/edit?usp=sharing)
+* [File Permissions on Linux](https://docs.google.com/document/d/1WNeHcIEm2aA5lofovqGfzy5izXq8zX6IVDtUu92AlGI/edit?usp=sharing&resourcekey=0-mbeftuw-vRQZrG8b-QKvwg)
 
 ## Tools
 On development
