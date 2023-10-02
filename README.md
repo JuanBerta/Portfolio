@@ -20,10 +20,14 @@ These attributes – attention to detail, self-management, independence, honesty
 * Testlink
 * Jira
 * MantisBT
+* Selenium
 
-## My projects
+## Automation Projects
+* [CourseEnrollmentChecker](https://github.com/JuanBerta/CourseEnrollmentChecker)
 
-* [Training E-Commerce](https://japceibal.github.io/e-mercado-TESTING/index.html):
+## Manual Projects
+
+  * [Training E-Commerce](https://japceibal.github.io/e-mercado-TESTING/index.html):
   * [Requirements Specification](https://docs.google.com/document/d/1KgurFbmPiX04S8OOlMMCs5sG42OZ7xDt/edit?usp=sharing&ouid=115471959102466208997&rtpof=true&sd=true)
   * [Test Cases](https://docs.google.com/spreadsheets/d/1F8lbIzmnNxy7j9D-6vsdRJ4_2L0L0Ndx/edit?usp=sharing&ouid=115471959102466208997&rtpof=true&sd=true)
   * [Incident Management](https://docs.google.com/spreadsheets/d/1HPM1gEoJ8JD62hYMr3qZoaKD3k8KLq0T/edit?usp=sharing&ouid=115471959102466208997&rtpof=true&sd=true)
