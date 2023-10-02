@@ -24,6 +24,7 @@ These attributes – attention to detail, self-management, independence, honesty
 
 ## Automation Projects
 * [CourseEnrollmentChecker](https://github.com/JuanBerta/CourseEnrollmentChecker)
+* [CourseEnrollmentChecker Test Cases](https://docs.google.com/document/d/1qG7zIwyMdGoZC3-vRsHxTuzOqlk9NbDDhKlrrtvvsQc/edit?usp=sharing)
 
 ## Manual Projects
 
