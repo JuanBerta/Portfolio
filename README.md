@@ -60,6 +60,7 @@ These attributes – attention to detail, self-management, independence, honesty
 * [Cybersecurity incident report analysis](https://docs.google.com/document/d/12ow0MLpP9WBoj-5c7R2eEkY0UW3YVNvCP-scBMqGPp8/edit?usp=sharing)
 * [File Permissions on Linux](https://docs.google.com/document/d/1WNeHcIEm2aA5lofovqGfzy5izXq8zX6IVDtUu92AlGI/edit?usp=sharing&resourcekey=0-mbeftuw-vRQZrG8b-QKvwg)
 * [Apply filters to SQL queries](https://docs.google.com/document/d/1CXIiY--oyUiR3mAensq9CeY6Hww_WqAsVWuRk2lyXX8/edit?usp=sharing)
+* [Incident handler's Journal](https://docs.google.com/document/d/1cXcE7w3CEbG8QnOS2uWH9ro2nJo2jyNFUjKiaxPA6Eo/edit?usp=sharing)
 
 ## Tools
 On development
